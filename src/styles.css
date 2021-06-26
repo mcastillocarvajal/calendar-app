@@ -1,0 +1,18 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+    max-width: 100%;
+}
+
+.calendar-screen {
+    display: flex;
+    flex-flow: column;
+    height: 100vh;
+}
+
+.rbc-calendar{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 2%;
+    height: 100vh;
+}
