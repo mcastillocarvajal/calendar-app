@@ -81,3 +81,10 @@ html, body {
     position: fixed;
     right: 40px;
 }
+
+.fab-danger {
+    bottom: 25px;
+    padding: 6px;
+    position: fixed;
+    left: 40px;
+}
